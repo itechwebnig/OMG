@@ -1,0 +1,155 @@
+[26-Jul-2017 05:20:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/helloecl/public_html/storage/framework/views/2faaed855a1b2f453be9b6e964964b9890ddfa7f.php on line 91
+[26-Jul-2017 05:20:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/helloecl/public_html/storage/framework/views/2faaed855a1b2f453be9b6e964964b9890ddfa7f.php on line 91
+[24-Feb-2018 07:55:09 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/maheefabrics/public_html/config/database.php on line 16
+[24-Feb-2018 07:55:18 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/maheefabrics/public_html/config/database.php on line 16
+[24-Feb-2018 07:56:20 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/maheefabrics/public_html/config/database.php on line 16
+[24-Feb-2018 07:57:38 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/maheefabrics/public_html/config/database.php on line 16
+[24-Feb-2018 07:58:35 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/maheefabrics/public_html/config/database.php on line 16
+[24-Feb-2018 07:58:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:04 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:08 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:11 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:15 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:19 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:22 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:26 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:29 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:33 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:37 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:41 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:46 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:52 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:56:56 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:57:04 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:57:09 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:57:13 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:57:16 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:57:20 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:57:28 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
+[06-May-2018 06:57:31 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Class 'PDO' not found in /home/maheefabrics/public_html/config/database.php:16
+Stack trace:
+#0 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(60): require()
+#1 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#2 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#3 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#4 /home/maheefabrics/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ in /home/maheefabrics/public_html/config/database.php on line 16
